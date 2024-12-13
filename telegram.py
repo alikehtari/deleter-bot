@@ -1,6 +1,6 @@
 import requests
 
-BOT_TOKEN = "6637153495:AAEhbedK3Wuez0sQzlYD2CyP_FOQtqm72Po"
+BOT_TOKEN = "" #your token here
 BASE_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
 def get_updates(offset):
